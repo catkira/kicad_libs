@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SCLF-X
+D Bandpass Filter, 260 to 310 MHz, 50 Ohm, Mini-Circuits GP731
+K bandpass filter rf
+F https://www.minicircuits.com/pdfs/RBP-280+.pdf
+$ENDCMP
+#
+#End Doc Library
